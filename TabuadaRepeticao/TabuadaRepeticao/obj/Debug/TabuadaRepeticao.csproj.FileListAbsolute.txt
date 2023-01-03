@@ -1,0 +1,8 @@
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.exe.config
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.exe
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.pdb
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.csproj.AssemblyReference.cache
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.exe
+C:\Users\ronin\source\repos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.pdb
